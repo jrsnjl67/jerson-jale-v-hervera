@@ -1,0 +1,2 @@
+a ="\t\t\t\t\t\t\t\t\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t*\t\t\" Hervera, Jerson Jale V.\"\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t*\t\t\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t*\t\t*\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t*"
+print(a)
